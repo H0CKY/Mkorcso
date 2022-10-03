@@ -1,0 +1,7 @@
+C:\Users\cisco\source\repos\Műkorcsolya\Műkorcsolya\obj\Debug\Műkorcsolya.csprojAssemblyReference.cache
+C:\Users\cisco\source\repos\Műkorcsolya\Műkorcsolya\obj\Debug\Műkorcsolya.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\Műkorcsolya\Műkorcsolya\bin\Debug\Műkorcsolya.exe.config
+C:\Users\cisco\source\repos\Műkorcsolya\Műkorcsolya\bin\Debug\Műkorcsolya.exe
+C:\Users\cisco\source\repos\Műkorcsolya\Műkorcsolya\bin\Debug\Műkorcsolya.pdb
+C:\Users\cisco\source\repos\Műkorcsolya\Műkorcsolya\obj\Debug\Műkorcsolya.exe
+C:\Users\cisco\source\repos\Műkorcsolya\Műkorcsolya\obj\Debug\Műkorcsolya.pdb
